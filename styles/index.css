@@ -1,0 +1,45 @@
+h1, h2 {
+    width: 100%;
+    text-align: center;
+}
+
+h1 {
+    margin: 0 auto;
+    font-size: 32px;
+}
+
+h2 {
+    margin: 15px auto;
+    font-size: 24px;
+    color: #D5538C;
+}
+
+.main {
+    width: 35%;
+    margin: 0 auto;
+    padding: 0 15px 15px 15px;
+    border: 1px solid #000;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.main p {
+    text-indent: 3em;
+    text-align: justify;
+    line-height: 1.4;
+}
+
+.main p span {
+    color: #377D22;
+    font-weight: bold;
+}
+
+.more {
+    margin-left: 80%;
+    color: #D5538C;
+}
+
+.more:hover {
+    color: #ff2382;
+    cursor: pointer;
+}
