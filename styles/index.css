@@ -34,12 +34,12 @@ h2 {
     font-weight: bold;
 }
 
-.more {
+.main a {
     margin-left: 80%;
+    text-decoration: none;
     color: #D5538C;
 }
 
-.more:hover {
+.main a:hover {
     color: #ff2382;
-    cursor: pointer;
 }
